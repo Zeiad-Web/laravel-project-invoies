@@ -1,3 +1,4 @@
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# laravel-project-invoies
+The invoicing system is  system implemented using the Laravel 11 framework. It allows users to issue invoices and manage them, whether paid, partially paid, or unpaid. They can also transfer invoices to the invoice archiving section and print invoices in PDF or Excel formats. They can also section or product, and control user permissions.
+
+        
+
+# laravel-project-invoies
+The invoicing system is system implemented using the Laravel 11 framework. It allows users to issue invoices and manage them, whether paid, partially paid, or unpaid. They can also transfer invoices to the invoice archiving section and print invoices in PDF or Excel formats. They can also section or product, and control user permissions.
+
+---
+
+## About Laravel
+
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. [Rest of Laravel boilerplate content...]
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://zeiad-web.github.io/portfolio).
