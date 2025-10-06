@@ -28,10 +28,10 @@ The invoicing system is system implemented using the Laravel 11 framework. It al
 
 
 
- ## Author Contact
+ ## Contact us
   Contact me with any questions!<br>
 
-  Email: zeiadalriqi@gmail.com
+  Email: zeiadalriqi@gmail.com <br>
   Whatsapp: +967-775932431
 
   #
